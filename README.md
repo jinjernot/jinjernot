@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jinjernot.netlify.app/](https://jinjernot.netlify.app/)
 
-- ⚡ Fun fact **In my free time, you can catch me coding for Sabarobe Studios, playing video games or trading crypto.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jinjernot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jinjernot" height="30" width="40" /></a>
