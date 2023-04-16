@@ -1,11 +1,5 @@
 <h3 align="center">Data Wrangler and Crypto Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinjernot&label=Profile%20views&color=0e75b6&style=flat" alt="jinjernot" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinjernot" alt="jinjernot" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jinjernot" target="blank"><img src="https://img.shields.io/twitter/follow/jinjernot?logo=twitter&style=for-the-badge" alt="jinjernot" /></a> </p>
-
 - 🔭 I’m currently working on [matarael](https://github.com/jinjernot/matarael)
 
 - 🌱 I’m currently learning **Python, Flask, Docker**
@@ -30,3 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinjernot&show_icons=true&locale=en" alt="jinjernot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinjernot&" alt="jinjernot" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinjernot&label=Profile%20views&color=0e75b6&style=flat" alt="jinjernot" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinjernot" alt="jinjernot" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/jinjernot" target="blank"><img src="https://img.shields.io/twitter/follow/jinjernot?logo=twitter&style=for-the-badge" alt="jinjernot" /></a> </p>
