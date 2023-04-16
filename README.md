@@ -1,10 +1,10 @@
 <h3 align="center">Data Wrangler and Crypto Enthusiast</h3>
 
-- 🔭 I’m currently working on [matarael](https://github.com/jinjernot/matarael)
+- I’m currently working on [matarael](https://github.com/jinjernot/matarael)
 
-- 🌱 I’m currently learning **Python, Flask, Docker**
+- I’m currently learning **Python, Flask, Docker**
 
-- 👨‍💻 All of my projects are available at [https://jinjernot.netlify.app/](https://jinjernot.netlify.app/)
+- All of my projects are available at [https://jinjernot.netlify.app/](https://jinjernot.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
