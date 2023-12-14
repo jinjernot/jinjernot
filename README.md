@@ -4,7 +4,7 @@
 
 - I’m currently learning **Python, Flask, Docker**
 
-- All of my projects are available at [https://www.jinjernot.zip/](https://https://www.jinjernot.zip/)
+- All of my projects are available at [https://www.jinjernot.zip/](https://www.jinjernot.zip/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
